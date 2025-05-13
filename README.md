@@ -1,2 +1,3 @@
 # Beginning-demo
-My first Git repo.
+My first Git Repository.
+Author- Dikshit Karki
