@@ -1,4 +1,4 @@
 # Beginning-demo
 My first Git Repository.
 <br>
-Author- Dikshit Karki
+Author- Dikshit Karki (DK)
